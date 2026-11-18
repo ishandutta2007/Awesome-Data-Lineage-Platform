@@ -97,6 +97,9 @@ The global Data Lineage & Active Metadata market is estimated at **$1.87 Billion
 - **[Egeria](https://github.com/odpi/egeria)** [<img src="https://img.shields.io/github/stars/odpi/egeria?style=social&color=white" alt="Egeria stars"/>](https://github.com/odpi/egeria/stargazers) 🏛️  
   *OMAG (Open Metadata and Governance) standard for federating metadata and lineage exchange across heterogeneous data tools.*
 
+- **[LineSQL](https://github.com/jarredhj0214/linesql)** [<img src="https://img.shields.io/github/stars/jarredhj0214/linesql?style=social&color=white" alt="LineSQL stars"/>](https://github.com/jarredhj0214/linesql/stargazers) ☕  
+  *JVM SQL parser and CLI that extract table and column lineage across nine dialects, including Spark, Hive, Flink, and StarRocks.*
+
 ---
 
 ## 🛠️ Key Open-Source Frameworks & Patterns
